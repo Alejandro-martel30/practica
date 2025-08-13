@@ -1,0 +1,17 @@
+[pack]
+	buildbitmaps = false
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[user]
+	name = dannael
+	email = dannael@danael
+[remote "origin"]
+	url = https://Dannael24@github.com/Dannael24/Inter-TADP.git
+	url = https://Dannael@github.com/Dannael24/interpract2.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
